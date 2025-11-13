@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**eols2/eols2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Eunbee Olson.
 
-Here are some ideas to get you started:
+I'm an **ISTQB-certified Manual & Mobile QA Engineer** with 5+ years of experience testing **Android, iOS, and web applications** in Agile environments.  
+I specialize in **exploratory, regression, and usability testing**, with a growing focus on **API validation using Postman** and **low-code automation with Maestro**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **What I do:**
+- Ensure seamless functionality, UI/UX consistency, and cross-platform stability for apps like *Pizza Hut, Visible,* and *Southwest Airlines*   
+- Create and manage detailed test cases using **TestRail** and **Jira**  
+- Collaborate with developers and designers to refine products pre- and post-release   
+
+🧰 **Tools I Use:**
+`TestRail` · `Jira` · `Confluence` · `Postman` · `Charles Proxy` · `Maestro` · `Android Studio` · `Xcode` · `TestFlight` · `ADB`
+
+🚀 **Current Focus:**
+Expanding my automation knowledge using **Maestro** and improving API testing proficiency in **Postman**.
+
