@@ -1,7 +1,7 @@
 ---
 name: Bug Report
-about: Short clear description of the issue
-title: ''
+about: Template to report a general bug or defect found during testing.
+title: "[BUG] "
 labels: ''
 assignees: ''
 
