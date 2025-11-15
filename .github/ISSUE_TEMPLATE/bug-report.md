@@ -1,5 +1,5 @@
 ---
-name: ".github/ISSUE_TEMPLATE/bug_report.md"
+name: Bug Report
 about: Short clear description of the issue
 title: ''
 labels: ''
